@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Volumes/HGZ/DevCodes/ZZZ-254/xsign_policy/demo",
+	"sourceRoot": "/Volumes/HGZ/DevCodes/ZZZ-254/xsign_policy/demo-hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
